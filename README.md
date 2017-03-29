@@ -7,5 +7,5 @@ Contains sample user registration page bootstrap
 
 ## Page View:
 
-![Alt text](/images/background1.jpg,"View")
+![Alt text](images/background1.jpg,"View")
 
