@@ -7,4 +7,5 @@ Contains sample user registration page bootstrap
 
 ## Page View:
 
-<img src = "file:///C:/Users/aprasad/Pictures/Screenshots/Screenshot%20(218).png" \>
+![alt tag](file:///C:/Users/aprasad/Pictures/Screenshots/Screenshot%20(218).png)
+
