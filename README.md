@@ -7,5 +7,5 @@ Contains sample user registration page bootstrap
 
 ## Page View:
 
-![alt tag](file:///C:/Users/aprasad/Pictures/Screenshots/Screenshot%20(218).png)
+![Alt text](/images/background1.jpg,"View")
 
