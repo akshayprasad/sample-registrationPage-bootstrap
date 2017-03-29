@@ -7,4 +7,4 @@ Contains sample user registration page bootstrap
 
 ## Page View:
 
-<img src = "C:\Users\aprasad\Pictures\Screenshots\Screenshot (218).png"\>
+<img src = "file:///C:/Users/aprasad/Pictures/Screenshots/Screenshot%20(218).png" \>
